@@ -14,14 +14,20 @@ export const persona = {
   aboutNarrative: [
     "I am an AI Engineer, Data Engineer, and Ph.D. candidate in Computer Science at Florida International University (FIU). My work spans large language models, multi-agent systems, retrieval-augmented generation (RAG), and end-to-end data pipelines.",
     "Before diving deep into academic AI research, I spent over 7 years in enterprise IT, information security, and risk engineering at organizations like Equifax and Deloitte partners. That background shapes how I build AI today: not as brittle demo toys, but as hardened, deterministic systems with strict guardrails, transactional rollbacks, and measurable performance.",
-    "At FIU, I conduct research on hierarchical decomposition for Text-to-SQL (DecoSearch, arXiv:2606.17821), sub-10ms visual document retrieval via teacher-student model distillation, and graph neural network robustness, publishing in premier venues including AAAI, IEEE TPAMI, and the ACM Web Conference.",
+    "At FIU, I conduct research on hierarchical decomposition for Text-to-SQL, visual document retrieval via teacher-student model distillation, and graph neural network robustness, publishing in premier venues including AAAI, IEEE TPAMI, and the ACM Web Conference.",
   ],
+  // stats: [
+  //   { label: "Academic Citations", value: "35+" },
+  //   { label: "FIU Ph.D. GPA", value: "3.97" },
+  //   { label: "Years in Tech & Research", value: "10+" },
+  //   { label: "Core Projects Built", value: "8" },
+  // ],
   stats: [
-    { label: "Academic Citations", value: "35+" },
-    { label: "FIU Ph.D. GPA", value: "3.97" },
-    { label: "Years in Tech & Research", value: "10+" },
-    { label: "Core Projects Built", value: "8" },
-  ],
+      { value: "AI & LLMs",         label: "Agentic Systems & RAG" },
+      { value: "Data Engineering",   label: "Pipelines & SQL Architecture" },
+      { value: "Cybersecurity",      label: "Enterprise Defense & Hardening" },
+      { value: "Applied Research",   label: "Ph.D. Candidate @ FIU" },
+    ],
   focusAreas: [
     "Large Language Models & In-Context Learning",
     "Agentic Workflows & Multi-Agent Systems (LangGraph)",

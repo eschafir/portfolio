@@ -8,7 +8,7 @@ export const experienceData: Experience[] = [
     location: "Miami, FL, United States",
     period: "Apr 2022 — Present",
     type: "Research",
-    summary: "Leading applied AI research on agentic Text-to-SQL decomposition, sub-10ms visual document retrieval, and graph neural network robustness under Dr. Dongjin Luo and collaborators.",
+    summary: "Leading applied AI research on agentic Text-to-SQL decomposition, visual document retrieval, and graph neural network robustness.",
     responsibilities: [
       "Engineered DecoSearch (arXiv:2606.17821), an agentic Text-to-SQL engine employing DAG question decomposition, complexity routing, and plan-level MCTS repair over relational databases.",
       "Achieved sub-10ms visual document search by developing a teacher-student distillation framework that compiles online multi-step LLM reasoning into offline visual sparse indexes.",

@@ -73,7 +73,7 @@ export function Education() {
 
               {/* Card Footer */}
               <div className="mt-6 pt-3 border-t border-slate-800/60 text-[11px] font-mono text-slate-400 flex items-center justify-between">
-                <span>Verified FIU Credential</span>
+                {/* <span>Verified FIU Credential</span> */}
                 <span className="text-cyan-400 font-bold">#0{idx + 1}</span>
               </div>
 
