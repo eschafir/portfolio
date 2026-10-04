@@ -17,7 +17,7 @@ export function Hero() {
             {/* Status Pill */}
             <div className="inline-flex items-center space-x-2 px-3.5 py-1.5 rounded-full bg-slate-900/90 border border-cyan-500/30 text-cyan-400 text-xs font-mono tracking-wide shadow-sm">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              <span>Ph.D. Candidate @ FIU &bull; AI &amp; Data Engineering</span>
+              <span>AI &amp; Data Engineering</span>
             </div>
 
             {/* Main Name & Title */}
