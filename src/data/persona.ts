@@ -23,9 +23,9 @@ export const persona = {
   //   { label: "Core Projects Built", value: "8" },
   // ],
   stats: [
-      { value: "AI & LLMs",         label: "Agentic Systems & RAG" },
-      { value: "Data Engineering",   label: "Pipelines & SQL Architecture" },
-      { value: "Cybersecurity",      label: "Enterprise Defense & Hardening" },
+      { value: "AI & LLMs",         label: "Multi-Agent Systems, RAG, Harnessing LLMs" },
+      { value: "Data Engineering",   label: "Pipelines, Vector DBs, SQL Architecture" },
+      { value: "Cybersecurity",      label: "+10 Yrs Enterprise Defense" },
       { value: "Applied Research",   label: "Ph.D. Candidate @ FIU" },
     ],
   focusAreas: [

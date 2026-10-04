@@ -121,7 +121,7 @@ export function Hero() {
               {/* Verified Badge */}
               <div className="absolute -bottom-3 -right-3 bg-slate-900/95 border border-slate-700 rounded-xl px-3 py-1.5 shadow-xl flex items-center space-x-2 text-xs font-mono text-cyan-400">
                 <CheckCircle2 className="w-4 h-4 text-emerald-400" />
-                <span>FIU CS Ph.D.</span>
+                {/* <span>FIU CS Ph.D.</span> */}
               </div>
             </div>
 
