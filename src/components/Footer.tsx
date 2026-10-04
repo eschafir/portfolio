@@ -49,7 +49,7 @@ export function Footer() {
 
           {/* Right: Technical Notes & Top Scroll */}
           <div className="flex items-center space-x-4 text-xs text-slate-500 font-mono">
-            <span>Built with Next.js 16, TypeScript &amp; Tailwind CSS</span>
+            <span>Back to top</span>
             <a
               href="#"
               aria-label="Back to top"

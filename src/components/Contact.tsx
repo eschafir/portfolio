@@ -108,7 +108,7 @@ export function Contact() {
               <div>
                 <div className="text-xs text-slate-400 font-mono">Location</div>
                 <div className="text-sm sm:text-base font-semibold text-white">
-                  {persona.location} (Miami Metro Area)
+                  {persona.location}
                 </div>
               </div>
             </div>

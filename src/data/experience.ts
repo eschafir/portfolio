@@ -3,14 +3,14 @@ import { Experience } from "../types";
 export const experienceData: Experience[] = [
   {
     id: "fiu-researcher",
-    role: "Graduate Research & Teaching Assistant",
+    role: "Graduate Research",
     company: "Florida International University",
     location: "Miami, FL, United States",
     period: "Apr 2022 — Present",
     type: "Research",
     summary: "Leading applied AI research on agentic Text-to-SQL decomposition, visual document retrieval, and graph neural network robustness.",
     responsibilities: [
-      "Engineered DecoSearch (arXiv:2606.17821), an agentic Text-to-SQL engine employing DAG question decomposition, complexity routing, and plan-level MCTS repair over relational databases.",
+      "Engineered DecoSearch, an agentic Text-to-SQL engine employing DAG question decomposition, complexity routing, and plan-level MCTS repair over relational databases.",
       "Achieved sub-10ms visual document search by developing a teacher-student distillation framework that compiles online multi-step LLM reasoning into offline visual sparse indexes.",
       "Designed and maintained end-to-end Python data pipelines (Pandas, NumPy) that clean, transform, and augment multi-source datasets for ML benchmarking.",
       "Developed and evaluated deep learning models using PyTorch, Hugging Face, and LangChain for Graph Neural Networks (GNNs) and agentic RAG.",

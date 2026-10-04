@@ -5,28 +5,28 @@ const pillars = [
   {
     icon: BrainCircuit,
     title: "Agentic AI & LLMs",
-    description: "Architecting multi-agent systems (LangGraph), DAG-based problem decomposition, and constrained generation with deterministic verification loops to prevent hallucinations.",
+    description: "Architecting multi-agent systems, DAG-based problem decomposition, and constrained generation with deterministic verification loops to prevent hallucinations.",
     color: "text-cyan-400",
     border: "border-cyan-500/20"
   },
   {
     icon: Database,
     title: "Data Pipelines & SQL",
-    description: "Designing end-to-end ETL/ELT pipelines in Python and SQL. Integrating relational databases, vector embeddings, and building natural-language Text-to-SQL query compilers.",
+    description: "Designing end-to-end ETL/ELT pipelines in Python and SQL. Integrating relational databases, vector embeddings, RAG systems, and building natural-language Text-to-SQL query compilers.",
     color: "text-teal-400",
     border: "border-teal-500/20"
   },
   {
     icon: Cpu,
     title: "Empirical AI Research",
-    description: "Conducting Ph.D. research at FIU on sub-10ms visual document retrieval via teacher-student distillation, graph representation learning, and complexity-aware query routing.",
+    description: "Conducting Ph.D. research at FIU on visual document retrieval via teacher-student distillation, graph representation learning, and complexity-aware query routing.",
     color: "text-emerald-400",
     border: "border-emerald-500/20"
   },
   {
     icon: ShieldCheck,
     title: "Cybersecurity Foundation",
-    description: "10 years of enterprise risk modeling, vulnerability remediation, and ISO 27001 / NIST compliance at Equifax and Deloitte partners—ensuring data systems are secure by design.",
+    description: "10 years of enterprise risk modeling, vulnerability remediation, and ISO 27001 / NIST compliance ensuring data systems are secure by design.",
     color: "text-blue-400",
     border: "border-blue-500/20"
   }
