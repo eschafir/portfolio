@@ -22,12 +22,15 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: "LangGraph", featured: true },
       { name: "LangChain", featured: true },
-      { name: "Agentic Workflows & Multi-Agent DAGs", featured: true },
+      { name: "Agentic & Multi-Agent Workflows", featured: true },
       { name: "Retrieval-Augmented Generation (RAG)", featured: true },
       { name: "Anti-Hallucination Guardrails", featured: true },
+      { name: "Harnessing LLMs", featured: true },
+      { name: "Multimodal Models", featured: true },
       { name: "In-Context Learning & Prompt Engineering", featured: false },
       { name: "Ollama / Local LLM Inference", featured: false },
       { name: "Agent Frameworks", featured: false },
+
     ]
   },
   {
@@ -69,9 +72,13 @@ export const skillCategories: SkillCategory[] = [
       { name: "Git, GitHub & GitLab", featured: true },
       { name: "Linux / macOS Shell Scripting", featured: false },
       { name: "AWS (Cloud Fundamentals)", featured: false },
-      { name: "Vitest & Playwright Testing", featured: true },
       { name: "RESTful API Design & OpenAPI", featured: false },
       { name: "Typst & LaTeX Document Compilation", featured: false },
+      { name: "Jupyter Notebooks & Colab", featured: false },
+      { name: "Data Visualization (Matplotlib, Seaborn, Plotly)", featured: true },
+      { name: "Documentation & API Reference Generation", featured: false },
+      { name: "Package Management (pip, npm, conda)", featured: false },
+      { name: "Dependency Management & Virtual Environments", featured: false },
     ]
   },
   {
@@ -82,11 +89,15 @@ export const skillCategories: SkillCategory[] = [
       { name: "ISO 27001 & NIST Frameworks", featured: true },
       { name: "Vulnerability Management (Nessus, Nmap)", featured: true },
       { name: "Threat Modeling & Application Defense", featured: true },
-      { name: "Identity & Access Management (IAM / PAM)", featured: false },
+      { name: "Identity & Access Management (IAM / PAM)", featured: true },
       { name: "SIEM (Splunk, Security Telemetry)", featured: false },
       { name: "Penetration Testing & Hardening", featured: false },
       { name: "Cryptographic Storage (AES-256-GCM)", featured: true },
-      { name: "Security Auditing & KPI Reporting", featured: false },
+      { name: "Security Auditing & KPI Reporting", featured: true },
+      { name: "Incident Response & Forensics", featured: false },
+      { name: "Enterprise Risk Modeling & Remediation", featured: true },
+      { name: "Security Awareness & Training Programs", featured: true },
+      { name: "Compliance Reporting & Executive Dashboards", featured: true },
     ]
   }
 ];

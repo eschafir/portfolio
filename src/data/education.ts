@@ -9,9 +9,8 @@ export const educationData: EducationItem[] = [
     period: "2024 — Present",
     gpa: "3.97 / 4.0",
     details: [
-      "Dissertation focus on Agentic Large Language Models, Hierarchical Text-to-SQL Decomposition, and Graph Neural Network Explanation Robustness.",
+      "Research focus on Agentic Large Language Models, Hierarchical Text-to-SQL Decomposition, and Graph Neural Network Explanation Robustness.",
       "First author of DecoSearch (arXiv:2606.17821) and co-author of publications in AAAI, IEEE TPAMI, and ACM Web Conference.",
-      "Graduate Research Assistant & Teaching Assistant."
     ]
   },
   {
@@ -23,7 +22,6 @@ export const educationData: EducationItem[] = [
     gpa: "4.0 / 4.0",
     details: [
       "Graduated with a perfect 4.0 GPA.",
-      "Specialized in web security vulnerabilities, automated CAPTCHA analysis, threat intelligence, and enterprise network defense.",
       "Conducted empirical research published at the ACM Web Conference 2024 and DIMVA 2024."
     ]
   },

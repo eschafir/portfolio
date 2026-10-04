@@ -25,11 +25,11 @@ export function Hero() {
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-tight">
                 Esteban <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-teal-300 to-emerald-400">Schafir</span>
               </h1>
-              <p className="text-xl sm:text-2xl font-semibold text-slate-200 tracking-tight">
+              {/* <p className="text-xl sm:text-2xl font-semibold text-slate-200 tracking-tight">
                 AI Engineer <span className="text-cyan-400">/</span> Data Engineer
-              </p>
+              </p> */}
               <p className="text-sm sm:text-base font-medium text-slate-400">
-                Applied AI Researcher &bull; Specializing in LLM Agents &amp; Data Systems
+                Specializing in LLM Agents &amp; Data Systems
               </p>
             </div>
 

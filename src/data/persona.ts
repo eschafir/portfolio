@@ -29,11 +29,12 @@ export const persona = {
       { value: "Research",   label: "Ph.D. Candidate @ FIU" },
     ],
   focusAreas: [
-    "Large Language Models & In-Context Learning",
+    "Large Language Models",
     "Agentic Workflows & Multi-Agent Systems",
-    "Hierarchical Text-to-SQL & Complex Query Routing",
-    "Information Retrieval & Distilled Sparse Indexes",
+    "Retrieval-Augmented Generation (RAG) & Multimodal Retrieval",
+    "LLM Evaluation, Guardrails & Hallucination Mitigation",
+    "Voice AI Agents & Tool Calling",
     "End-to-End Data Pipelines (ETL/ELT, SQL, Vector DBs, Python)",
-    "System Hardening, Guardrails & Anti-Hallucination"
+    "Graph Neural Networks (GNNs) & Graph Representation Learning",
   ]
 };
