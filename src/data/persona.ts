@@ -25,8 +25,8 @@ export const persona = {
   stats: [
       { value: "AI & LLMs",         label: "Multi-Agent Systems, RAG, Harnessing LLMs" },
       { value: "Data Engineering",   label: "Pipelines, Vector DBs, SQL Architecture" },
-      { value: "Cybersecurity",      label: "+10 Yrs Enterprise Defense" },
-      { value: "Applied Research",   label: "Ph.D. Candidate @ FIU" },
+      { value: "Information Security",      label: "+10 Yrs Enterprise Defense" },
+      { value: "Research",   label: "Ph.D. Candidate @ FIU" },
     ],
   focusAreas: [
     "Large Language Models & In-Context Learning",
