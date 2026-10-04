@@ -26,7 +26,7 @@ const pillars = [
   {
     icon: ShieldCheck,
     title: "Cybersecurity Foundation",
-    description: "10 years of enterprise risk modeling, vulnerability remediation, and ISO 27001 / NIST compliance ensuring data systems are secure by design.",
+    description: "10+ years of enterprise risk modeling, vulnerability remediation, and ISO 27001 / NIST compliance ensuring data systems are secure by design.",
     color: "text-blue-400",
     border: "border-blue-500/20"
   }
@@ -46,7 +46,7 @@ export function About() {
             Bridging Applied AI, Data Reliability &amp; Systems Security
           </h2>
           <p className="text-slate-400 text-base sm:text-lg">
-            A high-rigor engineering mindset honed through 4+ years of academic research and 7 years in enterprise infrastructure.
+            A high-rigor engineering mindset honed through 4+ years of academic research and 10 years in enterprise infrastructure.
           </p>
         </div>
 

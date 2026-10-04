@@ -35,7 +35,7 @@ export function Hero() {
 
             {/* Value Proposition (No buzzwords, crisp and concrete) */}
             <p className="text-slate-300 text-base sm:text-lg leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              {persona.valueProposition} Combining <span className="text-slate-100 font-semibold">4+ years of academic AI research</span> at FIU with <span className="text-slate-100 font-semibold">10 years of enterprise IT &amp; security engineering</span>.
+              {persona.valueProposition} Combining <span className="text-slate-100 font-semibold">4+ years of academic AI research</span> at FIU with <span className="text-slate-100 font-semibold">10+ years of enterprise IT &amp; security engineering</span>.
             </p>
 
             {/* Primary Action Buttons */}

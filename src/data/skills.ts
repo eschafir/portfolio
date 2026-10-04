@@ -6,14 +6,13 @@ export const skillCategories: SkillCategory[] = [
     description: "Deep learning models, neural graph architectures, and statistical evaluations.",
     iconName: "BrainCircuit",
     skills: [
-      { name: "PyTorch", featured: true },
-      { name: "Hugging Face (Transformers, PEFT)", featured: true },
+      { name: "Hugging Face (Transformers, PEFT, Datasets)", featured: true },
       { name: "Graph Neural Networks (GNNs)", featured: true },
-      { name: "Scikit-learn", featured: false },
-      { name: "TensorFlow", featured: false },
-      { name: "Explainable AI (XAI)", featured: false },
+      { name: "Supervised Learning", featured: true },
+      { name: "Unsupervised Learning", featured: true },
+      { name: "Reinforcement Learning", featured: false },
+      { name: "Clustering", featured: true },
       { name: "Model Distillation", featured: true },
-      { name: "Benchmark Evaluation (BIRD, Spider)", featured: true },
     ]
   },
   {
@@ -25,10 +24,10 @@ export const skillCategories: SkillCategory[] = [
       { name: "LangChain", featured: true },
       { name: "Agentic Workflows & Multi-Agent DAGs", featured: true },
       { name: "Retrieval-Augmented Generation (RAG)", featured: true },
-      { name: "Text-to-SQL (DecoSearch)", featured: true },
       { name: "Anti-Hallucination Guardrails", featured: true },
       { name: "In-Context Learning & Prompt Engineering", featured: false },
       { name: "Ollama / Local LLM Inference", featured: false },
+      { name: "Agent Frameworks", featured: false },
     ]
   },
   {
@@ -36,14 +35,14 @@ export const skillCategories: SkillCategory[] = [
     description: "Scalable data ingestion, relational schema modeling, and vector search systems.",
     iconName: "Database",
     skills: [
-      { name: "SQL (Complex Queries, Optimization)", featured: true },
+      { name: "SQL", featured: true },
       { name: "PostgreSQL & Supabase", featured: true },
       { name: "Python Data Pipelines (Pandas, NumPy)", featured: true },
       { name: "ETL / ELT Pipeline Architecture", featured: true },
       { name: "SQLite & MySQL", featured: false },
       { name: "SQL Server & Oracle PL/SQL", featured: false },
       { name: "MongoDB (NoSQL)", featured: false },
-      { name: "Vector Databases (Chroma, Pinecone)", featured: true },
+      { name: "Vector Databases", featured: true },
     ]
   },
   {
@@ -58,7 +57,6 @@ export const skillCategories: SkillCategory[] = [
       { name: "FastAPI", featured: true },
       { name: "Java", featured: false },
       { name: "C#", featured: false },
-      { name: "Tailwind CSS", featured: false },
     ]
   },
   {
