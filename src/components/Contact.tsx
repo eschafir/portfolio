@@ -34,7 +34,7 @@ export function Contact() {
             Let&apos;s Build Together
           </h2>
           <p className="text-slate-400 text-base sm:text-lg">
-            Open to senior AI Engineering, Data Engineering, and Applied Research opportunities. Reach out directly via email, phone, or professional networks.
+            Open to AI Engineering and Data Engineering opportunities. Reach out directly via email or professional networks.
           </p>
         </div>
 
@@ -75,7 +75,7 @@ export function Contact() {
             </div>
 
             {/* Phone Card */}
-            <div className="flex items-center justify-between p-4 rounded-xl bg-slate-950/60 border border-slate-800 hover:border-cyan-500/40 transition-colors">
+            {/* <div className="flex items-center justify-between p-4 rounded-xl bg-slate-950/60 border border-slate-800 hover:border-cyan-500/40 transition-colors">
               <div className="flex items-center space-x-3 truncate">
                 <div className="w-10 h-10 rounded-lg bg-teal-950/80 border border-teal-800/60 flex items-center justify-center shrink-0">
                   <Phone className="w-5 h-5 text-teal-400" />
@@ -98,7 +98,7 @@ export function Contact() {
               >
                 {copiedPhone ? <Check className="w-4 h-4 text-emerald-400" /> : <Copy className="w-4 h-4" />}
               </button>
-            </div>
+            </div> */}
 
             {/* Location Card */}
             <div className="flex items-center space-x-3 p-4 rounded-xl bg-slate-950/60 border border-slate-800">

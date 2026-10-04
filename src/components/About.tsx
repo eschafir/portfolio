@@ -26,7 +26,7 @@ const pillars = [
   {
     icon: ShieldCheck,
     title: "Cybersecurity Foundation",
-    description: "7 years of enterprise risk modeling, vulnerability remediation, and ISO 27001 / NIST compliance at Equifax and Deloitte partners—ensuring data systems are secure by design.",
+    description: "10 years of enterprise risk modeling, vulnerability remediation, and ISO 27001 / NIST compliance at Equifax and Deloitte partners—ensuring data systems are secure by design.",
     color: "text-blue-400",
     border: "border-blue-500/20"
   }

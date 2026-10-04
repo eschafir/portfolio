@@ -45,10 +45,10 @@ export function Navbar() {
           >
             <span className="w-2.5 h-2.5 rounded-full bg-cyan-400 animate-pulse group-hover:scale-125 transition-transform" />
             <span className="text-slate-100 font-sans font-bold text-lg">
-              Esteban<span className="text-cyan-400 font-mono font-medium">.Schafir</span>
+              Esteban<span className="text-cyan-400 font-mono font-medium"> Schafir</span>
             </span>
             <span className="hidden sm:inline-block text-xs uppercase px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 border border-slate-700/60 ml-2">
-              AI / Data
+              AI / Data / Security
             </span>
           </Link>
 
