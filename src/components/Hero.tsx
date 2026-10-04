@@ -29,13 +29,13 @@ export function Hero() {
                 AI Engineer <span className="text-cyan-400">/</span> Data Engineer
               </p>
               <p className="text-sm sm:text-base font-medium text-slate-400">
-                Applied AI Researcher &bull; Specializing in LLM Agents, Text-to-SQL &amp; Data Systems
+                Applied AI Researcher &bull; Specializing in LLM Agents &amp; Data Systems
               </p>
             </div>
 
             {/* Value Proposition (No buzzwords, crisp and concrete) */}
             <p className="text-slate-300 text-base sm:text-lg leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              {persona.valueProposition} Combining <span className="text-slate-100 font-semibold">4+ years of academic AI research</span> at FIU with <span className="text-slate-100 font-semibold">7 years of enterprise IT &amp; security engineering</span>.
+              {persona.valueProposition} Combining <span className="text-slate-100 font-semibold">4+ years of academic AI research</span> at FIU with <span className="text-slate-100 font-semibold">10 years of enterprise IT &amp; security engineering</span>.
             </p>
 
             {/* Primary Action Buttons */}
@@ -119,10 +119,10 @@ export function Hero() {
               </div>
 
               {/* Verified Badge */}
-              <div className="absolute -bottom-3 -right-3 bg-slate-900/95 border border-slate-700 rounded-xl px-3 py-1.5 shadow-xl flex items-center space-x-2 text-xs font-mono text-cyan-400">
-                {/* <CheckCircle2 className="w-4 h-4 text-emerald-400" /> */}
-                {/* <span>FIU CS Ph.D.</span> */}
-              </div>
+              {/* <div className="absolute -bottom-3 -right-3 bg-slate-900/95 border border-slate-700 rounded-xl px-3 py-1.5 shadow-xl flex items-center space-x-2 text-xs font-mono text-cyan-400">
+                <CheckCircle2 className="w-4 h-4 text-emerald-400" />
+                <span>FIU CS Ph.D.</span>
+              </div> */}
             </div>
 
             {/* Quick Metrics Bar below headshot */}
